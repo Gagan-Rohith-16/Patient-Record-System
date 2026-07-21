@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Record Management System",
+  "description": "Comprehensive healthcare management system for patient EHR/EMR, vitals tracking, appointments, ward bed allocations, e-prescriptions, lab results, billing, and AI clinical summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
